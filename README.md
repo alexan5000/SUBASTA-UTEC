@@ -45,8 +45,4 @@ Una alternativa a lo anterior es compilar y ejecutar la aplicación dentro del c
 1. `docker build -t aukcije: latest .`
 2. `docker run --rm -ti p 5000: 5000 aukcije`
 
-## Contribuir y usar
-Las solicitudes de extracción son bienvenidas. Bifurque, reescriba o use esta aplicación de la forma que desee.
 
-## Licencia
-[MIT] (https://choosealicense.com/licenses/mit/)
